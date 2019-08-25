@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的博客</title>
+    <link>https://tengvention.github.io/</link>
+    <description>Recent content on 我的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2019 16:36:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://tengvention.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://tengvention.github.io/post/first/</link>
+      <pubDate>Sun, 25 Aug 2019 16:36:35 +0800</pubDate>
+      
+      <guid>https://tengvention.github.io/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://tengvention.github.io/about/</link>
+      <pubDate>Sun, 25 Aug 2019 16:36:16 +0800</pubDate>
+      
+      <guid>https://tengvention.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
